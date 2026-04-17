@@ -1,3 +1,3 @@
 <p>this is my read me
-this is the new feature
+this is the new feature(markdown)
 </p>
